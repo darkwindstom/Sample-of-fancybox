@@ -1,0 +1,4 @@
+sample-fancybox
+===============
+
+sample fanybox
